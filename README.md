@@ -1,5 +1,5 @@
 # Path_based_adventure_game
-using texts in nested loop concepts to construct a basic choice-based game. 
+Using texts in nested loop concepts to construct a basic choice-based game. 
 
 
 Welcome to a text-based adventure game designed to test your decision-making skills and lead you through an interactive story.
